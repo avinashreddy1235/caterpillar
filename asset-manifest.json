@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/caterpillar/static/css/main.74817060.css",
+    "main.js": "/caterpillar/static/js/main.8a6642c1.js",
+    "static/media/equipment_data.csv": "/caterpillar/static/media/equipment_data.6cd2890fbba513251628.csv",
+    "index.html": "/caterpillar/index.html",
+    "main.74817060.css.map": "/caterpillar/static/css/main.74817060.css.map",
+    "main.8a6642c1.js.map": "/caterpillar/static/js/main.8a6642c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74817060.css",
+    "static/js/main.8a6642c1.js"
+  ]
+}
